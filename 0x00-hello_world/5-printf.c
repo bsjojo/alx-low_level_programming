@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - this function is the entry point,the main value is void
+ * main - this function is the entry point,
  *
- * return: it is used to exit a function, it is always 0
+ * printf - it prints the standard output
+ *
+ * Return: it is used to exit a function, it is always 0
 */
 
 int main(void)
