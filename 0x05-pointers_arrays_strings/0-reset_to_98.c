@@ -3,7 +3,7 @@
 /**
  * reaet - it gives a new valuee
  *
- * reaet_to_98 - resets n to 98
+ * reset_to_98 - a function that resets n to 98
  *
  *@n: it is the pointer variable to be changed
  *
